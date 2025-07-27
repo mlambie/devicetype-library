@@ -1,0 +1,21 @@
+---
+manufacturer: Intel
+model: NUC11PABi7
+slug: intel-nuc11pabi7
+u_height: 1
+is_full_depth: false
+airflow: passive
+weight: 1.20
+weight_unit: kg
+comments: '[Intel NUC11PABi7](https://www.intel.com/content/www/us/en/search.html?ws=text#q=NUC11PABi7&sort=relevancy)'
+interfaces:
+  - name: eth0
+    type: 1000base-t
+    label: 'Intel(R) I225-V Gigabit Network Device'
+  - name: wlan0
+    type: ieee802.11ax
+    label: 'Intel(R) Wi-Fi 6 AX201'
+power-ports:
+  - name: PSU1
+    allocated_draw: 90
+    type: dc-terminal
