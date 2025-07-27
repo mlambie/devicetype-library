@@ -1,0 +1,16 @@
+---
+manufacturer: Dell
+model: OptiPlex 7070 Micro
+slug: dell-optiplex-7070-micro
+part_number: D10U
+u_height: 1
+is_full_depth: false
+weight: 1.18
+weight_unit: kg
+comments: '[OptiPlex 7070 Micro](https://www.dell.com/support/product-details/en-au/product/optiplex-7070-micro/overview)'
+interfaces:
+  - name: eth0
+    type: 1000base-t
+power-ports:
+  - name: External Power Supply
+    type: dc-terminal
